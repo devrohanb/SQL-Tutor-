@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333837289820",
+    "firebase_url": "https://webview-f585b.firebaseio.com",
+    "project_id": "webview-f585b",
+    "storage_bucket": "webview-f585b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333837289820:android:ad38e76190f78be4",
+        "android_client_info": {
+          "package_name": "rohanstech.dev.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333837289820-1s5flh7i83f2heb2f5ldge122h1iq7of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rohanstech.dev.webview",
+            "certificate_hash": "91bcede70091616502c03a62ab7e5bcdd0eadafc"
+          }
+        },
+        {
+          "client_id": "333837289820-mt3nkpe8cgqac2a62g9p20uud06a6v23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEuk0KwHIOy0SMxHJ-6DAMgclpqFnrb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333837289820-mt3nkpe8cgqac2a62g9p20uud06a6v23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
